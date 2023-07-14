@@ -1,0 +1,7 @@
+export const actions = {
+  ADD_CART: "ADD_CART",
+  ADD_FAV: "ADD_FAV",
+  DELETE_CART: "DELETE_CART",
+  ITEM_REMOVE_CART: "ITEM_REMOVE_CART",
+  DELETE_FAV: "DELETE_FAV"
+};
